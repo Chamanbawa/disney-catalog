@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/disney-catalog/static/css/main.34b903de.css",
+    "main.js": "/disney-catalog/static/js/main.b165ca6d.js",
+    "index.html": "/disney-catalog/index.html",
+    "main.34b903de.css.map": "/disney-catalog/static/css/main.34b903de.css.map",
+    "main.b165ca6d.js.map": "/disney-catalog/static/js/main.b165ca6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34b903de.css",
+    "static/js/main.b165ca6d.js"
+  ]
+}
